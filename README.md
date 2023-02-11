@@ -17,6 +17,17 @@ Atividade 10/02
 
 → Equipe Formar equipes de 5 pessoas Até o intervalo, analisar livros correlatos da disciplina e realizar empréstimo(s) de livro(s) Organizar uma apresentação de 10 minutos. Pesquisar, discutir com colegas, pedir “pistas” para o professor... Início 21:30 Das informações apresentadas nas primeiras aulas (plano de ensino, objetivo disciplina, avaliação, calendário-sábado letivo-horário de aula); Apresentar o livro escolhido com as devidas justificativas; Realizar uma pesquisa a respeito de profissões, carreiras, vagas, mercado, perfil, salário, linguagens, tecnologias a respeito de Desenvolvimento Móbile.
 
+Auto avaliação (10/02)
+
+ - Cheguei no horario correto da aula.
+ - Criamos todas as etapas da avaliação individual e em grupo.
+ - Apresentação foi dentro dos 10 minutos.
+ - Respeitei todas as apresentações das equipes.
+ - Procurei ler resumidamente o livro para se basear na hora da apresetação.
+ - Coversei e decidimos juntos a divisão da apresentação.
+ - Tirei as duvidas pertinentes a apresentação com o professor.
+
+
 Plano de Ensino
 EMENTA Introdução aos dispositivos móveis. Plataformas de desenvolvimento. Interface gráfica do usuário. Persistência. Composição de aplicações com serviços web. API.
 
