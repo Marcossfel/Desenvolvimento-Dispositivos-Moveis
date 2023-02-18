@@ -27,6 +27,11 @@ Auto avaliação (10/02)
  - Coversei e decidimos juntos a divisão da apresentação.
  - Tirei as duvidas pertinentes a apresentação com o professor.
 
+Atividade 17/02
+
+A aula de hoje foi iniciada falando sobre o inicio do projeto, a IDE utilizanda é o Visual Studio Code, com a linguagem de Flutter. Explicou algumas linguagens tecnicas e formação da estrutura do pacote main e sobre as dependencias do projeto.
+O Primeiro processo foi iniciar as configurações da pagina de home.
+
 
 Plano de Ensino
 EMENTA Introdução aos dispositivos móveis. Plataformas de desenvolvimento. Interface gráfica do usuário. Persistência. Composição de aplicações com serviços web. API.
