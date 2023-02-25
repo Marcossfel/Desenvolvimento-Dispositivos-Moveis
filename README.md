@@ -19,6 +19,11 @@ Atividade 17/02
 
 Explicou todo o processo introdutorio do projeto a ser desenvolvido em aula, a linguagem a ser usada será o flutter e a IDE o Visual Studio Code. No decorrer da aula ficamos desenvolvendo o código, juntamente aprendemos algumas técnicas da linguam, e fizemos a divisão do código em camadas.
 
+Atividade 24/02
+
+O professor explicou como fazer a utilização do terminal configurado no Visual Studio Code, ensinou como construir funções de diversas forma (sem retorno e sem parâmetro; sem retorno com parâmetro e etc).
+Passou 3 exercicios para praticarmos em casa, o que aprendemos em sala e enviarmos no moodle.
+
 Plano de Ensino
 EMENTA Introdução aos dispositivos móveis. Plataformas de desenvolvimento. Interface gráfica do usuário. Persistência. Composição de aplicações com serviços web. API.
 
@@ -55,3 +60,9 @@ Chegada no hórario > sim; Interesse > desenvolvimento dessa área para armazena
 17/02
 
 Chegada no hórario > sim; Acompanhei criteriosamente o que o professor propôs e Desenvolvi a atividade em tempo de aula.
+
+24/02
+
+Chegada no horário de forma assidua, participei de todas as atividades propostas e acompanhei tudo com atenção.
+
+
